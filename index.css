@@ -335,13 +335,13 @@ footer h6{
 /* // X-Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) { 
     .section-banner .text-content h1{
-        font-size: 47px;
+        font-size: 50px;
         font-weight: 600;
     }
     .section-banner .img-content img{
         width: 115%;
         height: 115%;
-        margin-left: -180px;
+        margin-left: -200px;
         margin-top: -50px;
     }
    .section-banner .text-content p{
@@ -364,7 +364,7 @@ footer h6{
        opacity: 0.8;
    }
    .section-about .text-content {
-       margin-top: 100px;
+       margin-top: 130px;
        margin-left: 0;
        text-align: left;
    }
